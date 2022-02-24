@@ -12,7 +12,7 @@ Moringa School – (https://moringaschool.com)
 This sample is ment for biginners training to cook sweet soft delisious cookies.
 You may follw the entire recipe or you can be creative enaough a to try out new methods of making cookies.
 
-Feel free to add more ingredients to the to thr menu.
+Feel free to add more ingredients to the to the menu.
 more suggestions are welcome too.
 
 ---
