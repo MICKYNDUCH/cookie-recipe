@@ -1,6 +1,6 @@
 # cookie-recipe
 
-This is a sample of a cookie read me recipe 
+This is a sample of a cookie readme recipe 
 
 ---
 
