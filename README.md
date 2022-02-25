@@ -4,7 +4,7 @@ This is a sample of a cookie readme recipe
 
 ---
 
-## contributers
+## CONTRIBUTORS
 Michael Njenga (mickynduch@gmail.com)
 
 Moringa School – (https://moringaschool.com)
